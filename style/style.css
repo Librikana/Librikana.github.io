@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@500&display=swap');
+
+*{
+	box-sizing: border-box;
+}
+
+.nav li{
+	display: inline;
+	list-style-type: none;
+	margin-right: 200px;
+}
+
+header{
+	display: inline;
+}
+
+h1{
+	color: white;
+	font-size: 35px;
+}
+
+h2 {
+   color: #00a2c6
+}
+
+nav{
+		background-color: #00a2c6;
+		padding: 5px;
+		position:static;
+		top: 0;
+}
+
+nav a{
+	font-size: 18px;
+	font-weight: 400;
+	text-decoration: none;
+	color: white;
+}
+
+nav a:hover{
+	font-weight:bold;
+	font-size: 18px;
+	font-weight: 18px;
+	text-decoration: none;
+}
+
+.jumbotron{
+	font-size: 30px;
+	padding: 60px;
+	background-color: #00c8eb;
+	text-align:center;
+	color: white;
+	}
+
+	#head{
+		box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+		border-radius: 5px;
+		padding: 20px;
+		margin-top: 20px;
+		margin-bottom: 20px
+	}
+
+.card{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+	border-radius: 5px;
+	padding: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	position: relative;
+	}
+
+.featured-images{
+	 width: 200px;
+   max-height: 200px;
+   object-fit: cover;
+   object-position: center;
+	 position: relative;
+	 left: 43%;
+}
+
+footer {
+   padding: 20px;
+   color: white;
+   background-color: #00a2c6;
+   text-align: center;
+   font-weight: bold;
+	 box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+ 	 border-radius: 5px;
+	 padding: 20px;
+ 	 margin-top: 20px;
+   margin-bottom: 20px
+}
+
+#Petuah {
+	float: left;
+	width: 50%
+}
+
+#Kisah {
+	float: left;
+	width: 50%
+}
+
+#BukuAudio{
+	float: right;
+	width: 50%
+}
+
+#Makna{
+	float:right;
+	width: 50%
+}
+
+@media screen and (max-width: 1000px) {
+   #content {
+       width: 100%;
+       padding: 0;
+   }
+}
