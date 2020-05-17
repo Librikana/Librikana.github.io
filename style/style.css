@@ -31,7 +31,7 @@ nav{
 }
 
 nav a{
-	font-size: 18px;
+	font-size: px;
 	font-weight: 400;
 	text-decoration: none;
 	color: white;
@@ -91,23 +91,19 @@ footer {
 }
 
 #Petuah {
-	float: left;
-	width: 50%
+	width: 100%
 }
 
 #Kisah {
-	float: left;
-	width: 50%
+	width: 100%
 }
 
 #BukuAudio{
-	float: right;
-	width: 50%
+	width: 100%
 }
 
 #Makna{
-	float:right;
-	width: 50%
+	width: 100%
 }
 
 @media screen and (max-width: 1000px) {
