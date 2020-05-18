@@ -23,13 +23,6 @@ h2 {
    color: #00a2c6
 }
 
-h3 {
-	color: #00a2c6
-	position:relative;
-	left: 43%;
-	text-align: center;
-}
-
 nav{
 		background-color: #00a2c9;
 		padding: 5px;
@@ -110,28 +103,6 @@ footer {
 #Makna{
 	width: 100%
 }
-
-.table{
-	width: 100%;
-	border-collapse: collapse;
-}
-
-.table td,.table th{
-  padding:12px 15px;
-  border:1px solid #ddd;
-  text-align: center;
-  font-size:20px;
-}
-
-.table th{
-	background-color: #00a2c6;
-	color:#ffffff;
-}
-
-.table tbody tr:nth-child(even){
-	background-color: #f5f5f5;
-}
-
 
 @media screen and (max-width: 1000px) {
    #content {
