@@ -23,6 +23,13 @@ h2 {
    color: #00a2c6
 }
 
+h3 {
+	color: #00a2c6
+	position:relative;
+	left: 43%;
+	text-align: center;
+}
+
 nav{
 		background-color: #00a2c9;
 		padding: 5px;
