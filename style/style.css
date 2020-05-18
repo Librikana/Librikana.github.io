@@ -23,10 +23,11 @@ h2 {
    color: #00a2c6
 }
 
-.judul {
-	text-align: center;
-	position: center;
+h3 {
 	color: #00a2c6
+	position:relative;
+	left: 43%;
+	text-align: center;
 }
 
 nav{
