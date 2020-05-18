@@ -23,8 +23,8 @@ h2 {
    color: #00a2c6
 }
 
-.judul tabel {
-	text-align: center;
+.judul {
+	position: center;
 	color: #00a2c6
 }
 
