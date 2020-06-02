@@ -21,6 +21,7 @@ h1{
 
 h2 {
    color: white;
+   text-decoration: underline;
 }
 
 h3 {
@@ -68,6 +69,10 @@ nav a:hover{
 body{
 	background: #0E141B;
 	color: #fcfcfc;
+}
+
+p{ 
+	font-family: sans-serif; 
 }
 
 .card{
