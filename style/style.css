@@ -34,7 +34,7 @@ h3 {
 nav{
 		background-color: black;
 		position:static;
-		top: 0;
+		top: 0px;
 }
 
 nav a{
