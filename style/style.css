@@ -7,7 +7,7 @@
 .nav li{
 	display: inline;
 	list-style-type: none;
-	margin-right: 30px;
+	margin-right: 50px;
 }
 
 header{
@@ -34,11 +34,12 @@ h3 {
 nav{
 		background-color: black;
 		position:static;
-		top: 0px;
+	        margin-top: 0px;
+	
 }
 
 nav a{
-	font-size: 30px;
+	font-size: 40px;
 	font-weight: 400;
 	text-decoration: none;
 	color: white;
