@@ -66,6 +66,11 @@ nav a:hover{
 	        padding: 20px;
 	}
 
+marquee{
+	color: white;
+	font-weight:bold;
+}
+
 body{
 	background: #0E141B;
 	color: #fcfcfc;
